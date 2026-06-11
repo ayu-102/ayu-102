@@ -20,4 +20,4 @@ Saya seorang siswa SMK jurusan **Rekayasa Perangkat Lunak (RPL)** yang sedang be
 </p>
 
 ---
-* Selalu siap belajar hal baru!*
+* Selalu siap belajar hal baru!

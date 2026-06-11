@@ -1,4 +1,5 @@
 # Halo semuanya! 👋
+![Pengunjung](https://komarev.com/badgecounter/dashboard/?username=ayu-102&color=87A987&style=flat-square&label=PROFIL+DILIHAT)
 
 Saya seorang siswa SMK jurusan **Rekayasa Perangkat Lunak (RPL)** yang sedang belajar coding tentang web, aplikasi desktop dan mobile.
 
@@ -21,3 +22,11 @@ Saya seorang siswa SMK jurusan **Rekayasa Perangkat Lunak (RPL)** yang sedang be
 
 ---
 * Selalu siap belajar hal baru!
+
+* ###  Kontribusi Ular Game
+
+![GitHub Kontribusi Ular](https://raw.githubusercontent.com/ayu-102/ayu-102/output/github-contribution-grid-snake.svg)
+
+---
+### 💬 Kutipan Hari Ini
+![Kutipan Dev](https://github-readme-quotes.herokuapp.com/quote?theme=shadow_green)

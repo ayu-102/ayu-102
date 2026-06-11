@@ -1,16 +1,23 @@
-## Hi there 👋
+# Halo semuanya! 👋
 
-<!--
-**ayu-102/ayu-102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang siswa SMK jurusan **Rekayasa Perangkat Lunak (RPL)** yang sedang belajar coding tentang web, aplikasi desktop dan mobile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Keahlian & Teknologi yang Dipelajari
+
+*   🌐 **Pemrograman Web:** HTML, CSS, PHP, dan Framework Laravel
+*   📱 **Mobile & Desktop:** Java dan Android Studio
+*   🗄️ **Basis Data:** MySQL 
+
+---
+
+### 📊 Statistik GitHub Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayu-102&show_icons=true&theme=shadow_green" alt="Stats GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-102&layout=compact&theme=shadow_green" alt="Bahasa Teratas" width="48%" />
+</p>
+
+---
+* Selalu siap belajar hal baru!*
